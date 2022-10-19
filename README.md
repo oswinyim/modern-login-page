@@ -1,4 +1,4 @@
-# Simple login template with style
+# Simple modern login template
 
 <img width="1172" alt="CleanShot 2022-10-12 at 00 33 06@2x" src="https://user-images.githubusercontent.com/67218011/195250658-9134fd6c-d704-412f-b801-465a6cd789b3.png">
 
